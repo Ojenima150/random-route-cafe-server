@@ -1,2 +1,2 @@
 # random-route-cafe-server
-AA sample cafe server with API
+A sample cafe server with API
